@@ -5,4 +5,8 @@ enum class SortOrder(val displayName: String) {
     NAME_DESC("имени (Я-А / Z-A)"),
     LAST_NAME_ASC("фамилии (А-Я / A-Z)"),
     LAST_NAME_DESC("фамилии (Я-А / Z-A)")
-} 
+    /*
+    NUM_ASC("↑"),
+    NUM_DESC("↓")
+*/
+}
